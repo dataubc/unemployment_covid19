@@ -1,6 +1,6 @@
 # The Employment and the Pandemic
 
-**How covid19 has affected employment in Canada**
+*How covid19 has affected employment in Canada across different industries*
 
 Data:
 ------
