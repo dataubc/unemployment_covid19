@@ -13,4 +13,6 @@ Results:
 
 ![canda_unempl](img/canda_unempl.png)
 
+The good news that we see all industries rebounding in June and some are even since April. However, some industriesare clearly boucing much faster than others such Forestry and Good producing industry as well as Construction. The least improvements is seen in Finance, Real State and Transportation. Lagging far behind are Mining, oil and gas and Information and cultural industries.
+
 
